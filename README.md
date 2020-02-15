@@ -22,6 +22,13 @@ Ice Cold ACAAN is like nothing we've ever seen before. A freely named card is mi
 For more details see [Ellusionist](https://www.ellusionist.com/ice-cold-acaan.html).
 
 
+### Totally Hands Off by Dani DaOrtiz
+
+A masterpiece that puts everyone on the edge of their seats and you at the center of attention. A thought-of card appears at a thought-of number.
+
+For more details see [Penguin Magic](https://www.penguinmagic.com/p/11519).
+
+
 
 ### Support or Contact
 
