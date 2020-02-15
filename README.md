@@ -35,6 +35,12 @@ The holy grail: Someone names a card, someone names a number and YOU make it hap
 
 For more details see [Penguin Magic](https://www.penguinmagic.com/p/2485).
 
+### Where It Has To Go by Rick Lax
+
+They freely choose how the trick will end. YOU make it happen. A stunning miracle that turns card magic on its head.
+
+For more details see [Penguin Magic](https://www.penguinmagic.com/p/10747).
+
 
 ### Support or Contact
 
