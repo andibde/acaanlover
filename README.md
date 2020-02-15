@@ -3,29 +3,11 @@
 On this website you can see all Acaans are released.
 
 
-### Markdown
+### a.a.c.a.a.n (Asy Winds Any Card At Any Number)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+a.a.c.a.a.n is a realy cool and hands off Acaan.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Vanishing Inc. Magic](https://www.vanishingincmagic.com/card-magic-downloads/aacaan/).
 
 ### Jekyll Themes
 
