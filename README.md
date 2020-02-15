@@ -42,6 +42,13 @@ They freely choose how the trick will end. YOU make it happen. A stunning miracl
 For more details see [Penguin Magic](https://www.penguinmagic.com/p/10747).
 
 
+### Free by Think Nguyen
+
+They freely choose ANY card and ANY number. You grab the SHUFFLED BORROWED DECK, count down and THERE IT IS. 
+
+For more details see [Penguin Magic](https://www.penguinmagic.com/p/12771).
+
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [contact support](https://andibrunner.de/#signup) and we’ll help you sort it out.
