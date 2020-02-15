@@ -9,10 +9,12 @@ a.a.c.a.a.n is a realy cool and hands off Acaan.
 
 For more details see [Vanishing Inc. Magic](https://www.vanishingincmagic.com/card-magic-downloads/aacaan/).
 
-### Jekyll Themes
+### H.G. Effect by Shawn Farquhar
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andibde/acaanlover/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+In this digital download you will learn how to perform one of the most amazing versions of ACAAN that has ever been created.
+
+For more details see [Palmer Magic](https://www.palmermagic.com/product/h-g-effect-shawn-farquhar/).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [contact support](https://andibrunner.de/#signup) and we’ll help you sort it out.
