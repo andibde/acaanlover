@@ -29,6 +29,12 @@ A masterpiece that puts everyone on the edge of their seats and you at the cente
 For more details see [Penguin Magic](https://www.penguinmagic.com/p/11519).
 
 
+### Hands Off by Patrick Redford
+
+The holy grail: Someone names a card, someone names a number and YOU make it happen. Easy to learn, with NO complicated memory work.
+
+For more details see [Penguin Magic](https://www.penguinmagic.com/p/2485).
+
 
 ### Support or Contact
 
